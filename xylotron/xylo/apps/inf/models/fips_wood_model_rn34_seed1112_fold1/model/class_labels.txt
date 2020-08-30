@@ -1,0 +1,12 @@
+Albizia
+Detarium
+Dialium
+Hymenaea
+Inga
+Morus
+Nauclea
+Robinia
+Swietenia
+Tectona
+Ulmus_americana
+Ulmus_rubra

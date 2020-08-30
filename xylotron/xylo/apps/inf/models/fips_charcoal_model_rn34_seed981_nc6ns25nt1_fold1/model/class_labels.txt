@@ -1,0 +1,6 @@
+Acer
+Betula
+Carpinus
+Fagus
+Fraxinus
+Quercus

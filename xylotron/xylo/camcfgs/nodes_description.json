@@ -1,0 +1,27 @@
+{
+"DeviceSerialNumber": ["tld", "String"],
+"DeviceCurrentSpeed": ["tld", "Enumeration"],
+
+"StreamBufferHandlingMode": ["tls", "Enumeration"],
+
+"AcquisitionMode": ["std", "Enumeration"],
+"BlackLevel": ["std", "Float"],
+"PixelFormat": ["std", "Enumeration"],
+"Height": ["std", "Integer"],
+"Width": ["std", "Integer"],
+"OffsetX": ["std", "Integer"],
+"OffsetY": ["std", "Integer"],
+"pgrExposureCompensationAuto": ["std", "Enumeration"],
+"pgrExposureCompensation": ["std", "Float"],
+"GainAuto": ["std", "Enumeration"],
+"Gain": ["std", "Float"],
+"AcquisitionFrameRateAuto": ["std", "Enumeration"],
+"AcquisitionFrameRateEnable": ["std", "Boolean"],
+"AcquisitionFrameRate": ["std", "Float"],
+"SharpnessAuto": ["std", "Enumeration"],
+"SharpnessEnabled": ["std", "Boolean"],
+"Sharpness": ["std", "Integer"],
+"BalanceWhiteAuto": ["std", "Enumeration"],
+"BalanceRatioSelector": ["std", "Enumeration"],
+"BalanceRatio": ["std", "Float"]
+}

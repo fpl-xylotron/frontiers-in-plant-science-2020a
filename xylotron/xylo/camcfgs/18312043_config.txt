@@ -1,0 +1,43 @@
+StreamBufferHandlingMode = NewestOnly
+
+AcquisitionMode = Continuous
+
+PixelFormat = RGB8
+
+Height = 2048
+
+Width = 2048
+
+OffsetX = 976
+
+OffsetY = 476
+
+pgrExposureCompensationAuto = Off
+
+pgrExposureCompensation = 0.8
+
+GainAuto = Off
+
+Gain = 0.0
+
+AcquisitionFrameRateAuto = Off
+
+AcquisitionFrameRateEnable = true
+
+AcquisitionFrameRate = 6.0
+
+SharpnessAuto = Off
+
+SharpnessEnabled = true
+
+Sharpness = 1000
+
+BalanceWhiteAuto = Off
+
+BalanceRatioSelector = Blue
+
+BalanceRatio = 1.78
+
+BalanceRatioSelector = Red
+
+BalanceRatio = 1.74
